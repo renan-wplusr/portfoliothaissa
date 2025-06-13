@@ -159,8 +159,8 @@ a:hover {
 
 @media screen and (max-width: 1200px) {
   .container_main_section1 {
-    width: 80%;
-    padding: 5% 5% 10% 5%;
+    width: 84%;
+    padding: 5% 5% 5% 5%;
     font-size: 1.7rem;
     border-radius: 1rem 0 1rem 0;
   }
