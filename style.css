@@ -120,7 +120,7 @@ img {
 .container_footer {
   display: flex;
   justify-content: center;
-  padding: 1% 0% 1% 0%;
+  padding: 1% 0 1% 0;
   align-items: center;
   border: 2px solid var(--cor-botao);
   background-color: var(--cor-secundaria);
@@ -155,7 +155,6 @@ a {
 
 a:hover {
   background-color: grey;
-  font-size: 1.2rem;
 }
 
 @media screen and (max-width: 1200px) {
